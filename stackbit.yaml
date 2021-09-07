@@ -1599,6 +1599,7 @@ models:
         type: string
       - name: ''
         type: string
+        required: true
   form_field:
     type: object
     label: Form field
