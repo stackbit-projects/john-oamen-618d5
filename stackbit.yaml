@@ -1601,6 +1601,7 @@ models:
         type: string
         required: true
         hidden: true
+        readOnly: true
   form_field:
     type: object
     label: Form field
