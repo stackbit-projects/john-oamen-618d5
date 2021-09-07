@@ -1600,6 +1600,7 @@ models:
       - name: ''
         type: string
         required: true
+        hidden: true
   form_field:
     type: object
     label: Form field
